@@ -19,8 +19,8 @@ Este projeto consiste em uma implementação simples e funcional do jogo da velh
 
 ## **Tecnologias utilizadas**
 
-•HTML
+• HTML
 
-•CSS
+• CSS
 
-•JavaScript 
+• JavaScript 
