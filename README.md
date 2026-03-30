@@ -7,13 +7,20 @@ Este projeto consiste em uma implementação simples e funcional do jogo da velh
 
 ## **Funcionalidades**
 • Alternância automática entre jogadores (X e O)
+
 • Detecção de vitória
+
 • Destaque visual para o vencedor
+
 • Exibição do jogador atual
+
 • Botão de reinício do jogo
 
 
 ## **Tecnologias utilizadas**
+
 •HTML
+
 •CSS
+
 •JavaScript 
